@@ -12,7 +12,7 @@ A simple drum machine application built using HTML, CSS, and JavaScript. This pr
 
 ## Live Demo
 
-You can try the live demo of the Drum Machine here: https://64d006d517e8c47d5048a31e--fantastic-tartufo-2373e8.netlify.app/
+You can try the live demo : https://64d006d517e8c47d5048a31e--fantastic-tartufo-2373e8.netlify.app/
 
 
 ## Technologies Used
